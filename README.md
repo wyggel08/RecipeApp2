@@ -1,4 +1,4 @@
-# recipeapp2
+# fooderlich
 
 A new Flutter project.
 

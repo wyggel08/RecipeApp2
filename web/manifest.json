@@ -1,6 +1,6 @@
 {
-    "name": "recipeapp2",
-    "short_name": "recipeapp2",
+    "name": "fooderlich",
+    "short_name": "fooderlich",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
